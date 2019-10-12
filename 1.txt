@@ -1,2 +1,3 @@
-Hi This is feature1 branch
 
+Hi This is feature1 branch
+Hi This is the feature2.txt
